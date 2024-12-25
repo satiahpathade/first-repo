@@ -1,2 +1,2 @@
 # first-repo
-this is domo repo
+this is domo repo.
